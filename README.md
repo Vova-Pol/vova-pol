@@ -5,7 +5,8 @@
 🤓 Пишу на React + TypeScript<br/>
 ✊ Ищу крутую команду с интересным проектом<br/>
 
-Мой сайт-портфолио ➡️ **<a href="https://vova-pol.github.io/portfolio" target="_blank" style="text-decoration: none">Protfolio</a>**
+
+Мой сайт-портфолио  ➡️  **[Portfolio](https://vova-pol.github.io/portfolio)**
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vova-pol&layout=compact)](https://github.com/vova-pol/github-readme-stats)
 
